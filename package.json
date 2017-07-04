@@ -1,0 +1,14 @@
+{
+  "name": "editor-server",
+  "version": "1.0.0",
+  "description": "The server component for the editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kashi Samaraweera <kashi@kashis.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
